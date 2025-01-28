@@ -14,7 +14,7 @@ func main(){
 }
 
 
-func subtracao (x int, y int) int {
+func subtracao (x , y int) int {
 
 	return x - y
 }
