@@ -17,7 +17,7 @@ func main(){
 }
 
 
-func soma (x int, y int) int {
+func soma (x , y int) int {
 	
 	return x + y
 }
