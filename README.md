@@ -1,7 +1,3 @@
-📌 README para o repositório "Estudos-Go"
-markdown
-Copiar
-Editar
 # 🏆 Estudos-Go  
 
 ![Banner](https://raw.githubusercontent.com/luisdessia/Estudos-Go/main/assets/banner.png)  
@@ -64,10 +60,12 @@ Editar
 go build nome_do_arquivo.go
 ./nome_do_arquivo  # Para rodar no Linux/Mac
 nome_do_arquivo.exe  # Para rodar no Windows
+
 📚 Referências
 Curso "Golang do Zero" – Dev Steph (Comunidade Dev Completo)
 Documentação Oficial do Go
 The Go Playground
+
 🤝 Contribuição
 Este repositório é apenas para fins de estudo pessoal, mas sugestões e feedbacks são sempre bem-vindos!
 
